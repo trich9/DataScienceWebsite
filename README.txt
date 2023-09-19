@@ -1,4 +1,3 @@
-# This is the code for the website I have created. There have been edits such as deleting pages of of the website.
 
 
 Dimension by HTML5 UP
